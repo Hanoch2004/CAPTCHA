@@ -1,4 +1,4 @@
-# CAPTCHA
+# MOTION MIRROR CAPTCHA
 An interactive motion-based CAPTCHA system that requires users to mirror on-screen movements, enhancing security against bots.
 
 Motion Mirror CAPTCHA is a motion-based, interactive CAPTCHA system built to enhance the security of login and registration forms by challenging users to identify and enter mirrored or normal characters displayed with random movement and fonts. This unique design makes it difficult for bots and automated scripts to bypass the form, offering a stronger security layer than traditional text-based CAPTCHA systems.
